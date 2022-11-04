@@ -1,0 +1,62 @@
+*{
+    margin: auto;
+    background-position: auto;
+    width: auto;
+    position: relative;
+    background-size: cover;
+}
+.container h2{
+    color: green;
+    padding:5px;
+    text-align: center;
+    width: none;
+}
+.container p{
+    color: red;
+    font-style: italic;
+    text-align: center;
+    width: none;
+}
+.container ul{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+    color: blue;
+    z-index: 1;
+    list-style: none;
+}
+
+.container a{
+    color: white;
+    text-decoration: none;
+}
+
+.contain ul{
+    display: flex;
+    flex-direction: row;
+    margin: 400px 0% 0% 0%;
+    position: relative;
+    height: 20px;
+    z-index: 1;
+    list-style: none;
+}
+
+.contain a{
+    color: black;
+    text-decoration: none;
+}
+
+.para h2{
+    margin: 5px 0px 0px 30px;
+    color: lawngreen;
+}
+
+.para ol{
+    margin: 5px 0px 0px 35px;
+}
+
+.para li{
+    margin-top: 5px;
+}
